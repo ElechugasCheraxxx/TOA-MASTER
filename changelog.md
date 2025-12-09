@@ -87,5 +87,3 @@
 - **Dependencias**: Todas usan Tampermonkey; v6.0+ añaden GM_* para storage y styles.
 - **Pendientes para Futuras Versiones**: Integración con API de Oracle (si posible), export a PDF, o soporte móvil.
 - **Fuentes**: Basado en análisis de los documentos proporcionados. Si hay más archivos o detalles, el changelog puede refinarse.
-
-Si necesitas agregar detalles específicos, ajustar fechas o generar un changelog en formato Markdown/JSON, ¡házmelo saber!
