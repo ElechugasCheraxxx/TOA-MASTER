@@ -229,12 +229,3 @@ Suggestions and improvements are welcome. Please open a GitHub issue if needed.
 
 </div>
 ```
-
----
-
----
-
-
-***
-[cite_start]**Author:** Cheraxxx [cite: 1121]
-[cite_start]**Version:** 9.0 [cite: 1120]
