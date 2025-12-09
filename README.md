@@ -225,4 +225,3 @@ Suggestions and improvements are welcome. Please open a GitHub issue if needed.
 📌 **TOA MASTER v9.0 — Diseñado para velocidad, precisión y eficiencia.**
 
 </div>
-```
