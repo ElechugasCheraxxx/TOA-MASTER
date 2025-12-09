@@ -1,6 +1,3 @@
-```markdown
-<div align="center">
-
 # 🤖 TOA MASTER — v9.0 (FINAL PUBLIC RELEASE)
 Automatización Avanzada para Oracle Field Service (Claro Perú)
 
