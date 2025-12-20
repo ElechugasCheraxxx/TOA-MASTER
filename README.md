@@ -11,7 +11,7 @@ Automatización Avanzada para Oracle Field Service (Claro Perú)
 
 ## 🇵🇪 **Descripción (Español)**
 
-**TOA MASTER v9.0** es un script de automatización diseñado para optimizar procesos operativos dentro del entorno **Oracle Field Service (TOA) Claro Perú**.  
+**TOA MASTER v10.0** es un script de automatización diseñado para optimizar procesos operativos dentro del entorno **Oracle Field Service (TOA) Claro Perú**.  
 Permite detectar datos en tiempo real desde la plataforma TOA y generar plantillas formales listas para enviar en un solo clic, reduciendo tiempo operativo y estandarizando formatos de gestión.
 
 Este script es especialmente útil para:
@@ -120,7 +120,7 @@ Si deseas sugerir mejoras, reportar errores o colaborar, puedes abrir un issue e
 
 ## 🇺🇸 **Project Description (English)**
 
-**TOA MASTER v9.0** is an automation script built to improve and standardize operational processes inside the **Oracle Field Service (TOA) environment for Claro Peru workflows**.  
+**TOA MASTER v10.0** is an automation script built to improve and standardize operational processes inside the **Oracle Field Service (TOA) environment for Claro Peru workflows**.  
 It extracts live data from the platform and generates formatted templates with one click — drastically reducing handling time and operator errors.
 
 ---
@@ -222,6 +222,6 @@ Suggestions and improvements are welcome. Please open a GitHub issue if needed.
 
 <div align="center">
   
-📌 **TOA MASTER v9.0 — Diseñado para velocidad, precisión y eficiencia.**
+📌 **TOA MASTER v10.0 — Diseñado para velocidad, precisión y eficiencia.**
 
 </div>
